@@ -41,4 +41,4 @@ jupyter notebook
 Output
 ---
 
-Link to [Youtube Video](https://www.youtube.com/watch?v=Hz-oD5w2bF0)
+Link to [Youtube Video](https://youtu.be/VDzM7YeFN3M)
